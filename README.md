@@ -10,7 +10,7 @@ first-time Android developers interested in exploring custom keyboard developmen
 ## Getting Started
 
 These instructions will guide you through forking the project, making it your own, and setting up a development environment for testing and further development.
-Most of the source code is in [KeyboardService.kt](./app/src/main/java/com.example.basickeyboard/KeyboardService.kt).
+Most of the source code is in [KeyboardService.kt](./app/src/main/java/com/example/basickeyboard/KeyboardService.kt).
 
 ### Learn with ChatGPT
 Use this custom GPT trained on this repo to learn more about the project and how to make your own keyboard!
@@ -69,7 +69,7 @@ This is because unlike other apps, there is no "app" to launch for a keyboard, i
 
 ## Customizing Your Keyboard
 ### Key Files for Customization
-- `app/src/main/java/com.example.basickeyboard/KeyboardService.kt`: Main service for keyboard logic.
+- `app/src/main/java/com/example/basickeyboard/KeyboardService.kt`: Main service for keyboard logic.
 - `app/src/main/res/keyboard_layout.xml`: Layout file for the keyboard UI.
 - `app/src/main/res/values/strings.xml`: Strings file for keyboard UI text.
 - `app/src/main/AndroidManifest.xml`: App declarations and configurations.
