@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.helloworldkeyboard"
+    namespace = "com.example.basickeyboard"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.helloworldkeyboard"
+        applicationId = "com.example.basickeyboard"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
