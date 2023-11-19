@@ -7,13 +7,10 @@ first-time Android developers interested in exploring custom keyboard developmen
 
 <img src="./images/basic.gif" height="300"/>
 
-The below docs are from the original HelloWorldKeyboard project.
-
-<img src="./images/use.gif" height="300"/>
-
 ## Getting Started
 
 These instructions will guide you through forking the project, making it your own, and setting up a development environment for testing and further development.
+Most of the source code is in [KeyboardService.kt](./app/src/main/java/com.example.basickeyboard/KeyboardService.kt).
 
 ### Learn with ChatGPT
 Use this custom GPT trained on this repo to learn more about the project and how to make your own keyboard!
