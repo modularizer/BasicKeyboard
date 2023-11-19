@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorldKeyboard</string>
+    <string name="service_label">Hello World KeyboardService</string>
+    <string name="subtype_en_US">Hello World Keyboard</string>
+</resources>
